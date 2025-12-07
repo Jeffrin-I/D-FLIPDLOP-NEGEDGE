@@ -53,11 +53,9 @@ RegisterNumber: 25009198
 
 ![pro-9_page-0001 (1)](https://github.com/user-attachments/assets/6c5cdb84-af93-4ccc-99c1-03ee014e9b3d)
 
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Dp-9_page-0001](https://github.com/user-attachments/assets/fc9f699d-919b-44ad-aa97-d1e13bb2c181)
-
+![dfliptime_page-0001](https://github.com/user-attachments/assets/c00b500b-6ed2-45cc-88a6-65213fbc4f26)
 
 **RESULTS**
 
